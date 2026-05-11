@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter Form & State Management 
 
 [cite_start]Ce projet est une application Flutter de **Formulaire d'Authentification**, réalisée dans le cadre du TP 3. L'objectif principal est de maîtriser la gestion de l'état local et la validation des saisies utilisateur.
@@ -36,3 +37,21 @@ Cette application démontre les concepts suivants :
 
 ## 🎓 Auteur
 [cite_start]**Saidani Khaoula** - Programmation Mobile Cross-Platform[cite: 6].
+=======
+# flutter_auth_form_validation
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 8a20245 (third commit)
